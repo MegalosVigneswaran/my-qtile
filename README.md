@@ -4,7 +4,7 @@
 ---
 > [!NOTE]  
 > I am not fully configured the Qtile i just wanna share some feature I made.  
-> I only need simple fast and fast system not a glossy UI so it is minimalastic.
+> I only need simple and fast system not a glossy UI so it is minimalastic.
 ---
 ![image](https://github.com/MegalosVigneswaran/my-qtile/assets/170398630/31bedbf3-55b8-43e8-bec6-785bad6187af)
 
