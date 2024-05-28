@@ -24,7 +24,7 @@ Rest assured, once my 3D printing work is completed, I'll be back to Linux. It's
 
 ---
 
-In this break, I will be making projects about RAG AI & ML, and now I am creating a project for a college election EVM. Stay tuned!
+In this break, I will be making projects about RAG , AI & ML, and now I am creating a project for a college election EVM. Stay tuned!
 
 ---
 
